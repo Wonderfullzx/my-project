@@ -1,0 +1,19 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mask test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wonderfullzx/my-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wonderfullzx/my-project/issues"
+  },
+  "homepage": "https://github.com/Wonderfullzx/my-project#readme"
+}
